@@ -18,6 +18,8 @@ Tujuan project ini adalah memahami alur desain antarmuka dan navigasi antar acti
 | 6 | Detail Makanan | Menampilkan detail item makanan dan tombol menuju **Form Alamat** |
 | 7 | Form Alamat | Formulir pengisian alamat pengiriman |
 | 8 | Terima Kasih | Tampilan konfirmasi setelah pesanan dikirim |
+| 9 | Profile | Tampilan identitas pemesan |
+
 
 ---
 
