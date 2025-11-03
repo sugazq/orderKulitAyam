@@ -78,4 +78,21 @@ Berikut adalah tampilan dari proyek ini:
 |:------------------------:|:------------------------:|:------------------------:|
 | Tampilan 7 | Tampilan 8 | Tampilan 9 |
 
+---
 
+## 💬 Catatan
+
+Aplikasi ini hanya menampilkan sisi **frontend**, tanpa koneksi ke backend maupun database.  
+Cocok digunakan sebagai dasar pembelajaran:
+- Navigasi antar **Activity**
+- Desain **UI**
+- Pengelolaan **Resource Android (drawable, layout, values)**
+
+---
+
+## 🧩 Cara Clone Repository
+
+Kamu bisa meng-clone repository ini ke lokal dengan perintah berikut:
+
+```bash
+git clone https://github.com/<username_github>/<nama_repository>.git
