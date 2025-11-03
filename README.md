@@ -62,16 +62,20 @@ Pilih device emulator atau hubungkan HP dengan mode Developer Mode + USB Debuggi
 
 Tekan tombol Run ▶ untuk menjalankan aplikasi.
 
-## 📸 Tampilan Aplikasi
+# 📸 Screenshot Project
 
-| Splash Screen | Menu Makanan |
-|----------------|----------------|
-| ![Splash](screenshots/splash_1.png) | ![Menu](screenshots/menu_4.png) |
+Berikut adalah tampilan dari proyek ini:
 
-| Form Alamat | Halaman Terima Kasih |
-|----------------|----------------|
-| ![Alamat](screenshots/7.png) | ![Terima Kasih](screenshots/8.png) |
-| Form Alamat | Halaman Terima Kasih |
-|----------------|----------------|
-| ![Alamat](screenshots/7.png) | ![Terima Kasih](screenshots/8.png) |
+| ![1](screenshots/1.jpg) | ![2](screenshots/2.jpg) | ![3](screenshots/3.jpg) |
+|:------------------------:|:------------------------:|:------------------------:|
+| Tampilan 1 | Tampilan 2 | Tampilan 3 |
+
+| ![4](screenshots/4.jpg) | ![5](screenshots/5.jpg) | ![6](screenshots/6.jpg) |
+|:------------------------:|:------------------------:|:------------------------:|
+| Tampilan 4 | Tampilan 5 | Tampilan 6 |
+
+| ![7](screenshots/7.jpg) | ![8](screenshots/8.jpg) | ![9](screenshots/9.jpg) |
+|:------------------------:|:------------------------:|:------------------------:|
+| Tampilan 7 | Tampilan 8 | Tampilan 9 |
+
 
