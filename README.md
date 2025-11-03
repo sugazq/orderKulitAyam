@@ -35,7 +35,7 @@ Tujuan project ini adalah memahami alur desain antarmuka dan navigasi antar acti
 
 ## 🗂️ Struktur Folder Penting
 
-app/
+'''app/
 ├── src/
 │ ├── main/
 │ │ ├── java/com/example/orderkulitayam/ # Folder file Kotlin
@@ -43,7 +43,7 @@ app/
 │ │ │ ├── drawable/ # Gambar dan icon (kulit ayam, tombol, dll)
 │ │ │ ├── layout/ # File XML tampilan (activity_main.xml, dll)
 │ │ │ └── values/ # Warna, string, style
-│ │ └── AndroidManifest.xml # Konfigurasi aktivitas aplikasi
+│ │ └── AndroidManifest.xml # Konfigurasi aktivitas aplikasi'''
 
 
 ---
